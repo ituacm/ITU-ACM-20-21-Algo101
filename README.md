@@ -1,54 +1,56 @@
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
 
-### Instructors
-
-**Your Name and Surname**
-
-*Computer Engineering #4 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-**Your Name and Surname**
-
-*Computer Engineering #3 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-
+# ITU ACM 2020-2021 Algo101 Course
 ### Prerequisities
-1. Basic knowledge about any programming language.
-2. so on...
+ - Basic knowledge about any programming language, preferably C/C++.
+ - Having an account on [HackerRank](https://www.hackerrank.com/).
+ - Zoom account.
+ - Attendee's own programming environment installed.
 
 ### Goal
 
-goals about program...
+Participants will learn to solve the problems that we encounter in daily life or writing efficient code starting from the basic algorithm information. Competitive Programming will be introduced and we will have the opportunity to apply our knowledge after adapting what we have learned to the question types with the competitions that will be hold every week.
 
 ### Syllabus
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
-| 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
-| 1 September 2019  |  Exchange Rate App baslangic.  | Projeye başlangıç. Kullanışlı Componentler ve API çağırmaları hakkında genel bilgiler  |
-| 1 September 2019  |  Exchange Rate App e navigation ekleme.  | React Navigation kütüphanesi hakkında genel bilgiler  |
-| 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
-| 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
-
+| Will be announced soon...  | Will be announced soon...  | Will be announced soon...  |
+| Will be announced soon...  | Will be announced soon...  | Will be announced soon...  |
+| Will be announced soon...  | Will be announced soon...  | Will be announced soon...  |
+| Will be announced soon...  | Will be announced soon...  | Will be announced soon...  |
+| Will be announced soon...  | Will be announced soon...  | Will be announced soon...  |
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
+## Instructors @I.T.U
+
+| Name and Surname | Social Media |
+|:--:|:--:|
+| Will be announced soon.. # | [*LinkedIn*](https://www.linkedin.com/in) |
+| Will be announced soon.. # | [*LinkedIn*](https://www.linkedin.com/in) |
+| Will be announced soon.. # | [*LinkedIn*](https://www.linkedin.com/in) |
+| Will be announced soon.. # | [*LinkedIn*](https://www.linkedin.com/in) |
+
+
+## Assistants @I.T.U
+
+| Name and Surname | Social  |
+|:--:|:--:|
+| Will be announced soon.. # | [*LinkedIn*](https://www.linkedin.com/in) |
+| Will be announced soon.. # | [*LinkedIn*](https://www.linkedin.com/in) |
+
+> **ProTip:** Instructors and Assistants are also problem setter.
 
 # Important Links
 
-You can add links here about your program...
+Will be announced soon...
 
 # Suggested Readings
 
-You can add readings here about your program...
+Will be announced soon...
 
 # Project
-Short project details. For more information visit the [Project file](/Project)
+Will be announced soon...
 
 
 <p align="center">
