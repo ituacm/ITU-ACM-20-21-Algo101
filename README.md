@@ -44,7 +44,10 @@ Each week's inzva bundle before coming to lecture.
 > **ProTip:** You can find more information about this course [here](https://github.com/inzva/Algorithm-Program).
 
 <p align="center">
-  <a href="//ituacm.com" target="_blank">
+ <a href="//ituacm.com" target="_blank">
     <img src="https://ituacm.com/wp-content/uploads/2017/08/itu-logo.png">
+  </a>
+  <a href="https://inzva.com/" target="_blank">
+    <img src="https://avatars0.githubusercontent.com/u/26366279?s=200&v=4">
   </a>
 </p>
