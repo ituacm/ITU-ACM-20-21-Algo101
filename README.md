@@ -19,11 +19,12 @@ All sources: https://github.com/inzva/Algorithm-Program
 
 |  #Week |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 | [Intro](https://github.com/inzva/Algorithm-Program/tree/master/bundles/01-intro) + [Algorithms](https://github.com/inzva/Algorithm-Program/tree/master/bundles/02-algorithms-1) | Big O Notation, Recursion, Builtin Data Structures, Sort/Search Algorithms  |
+| 1 | [Intro](https://github.com/inzva/Algorithm-Program/tree/master/bundles/01-intro) + [Algorithms - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/02-algorithms-1) | Big O Notation, Recursion, Builtin Data Structures, Sort/Search Algorithms  |
 | 2  |  | Meeting with officers from [inzva](https://inzva.com/)  |
-| 3  | [Math](https://github.com/inzva/Algorithm-Program/tree/master/bundles/03-math-1)  | Number Theory, Factorization, Combinatorics, Exponentiation  |
-| 4  | [Graph](https://github.com/inzva/Algorithm-Program/tree/master/bundles/04-graph-1)  | Representing Graphs, Tree Traversals, Binary Search Tree, DFS, BFS, Union Find, Heap  |
-| 5 | [DP](https://github.com/inzva/Algorithm-Program/tree/master/bundles/05-dp-1)| Greedy Algorithms, Memoization, Common DP Problems |  
+| 3  | [Math - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/03-math-1)  | Number Theory, Factorization, Combinatorics, Exponentiation  |
+| 4  | [Graph - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/04-graph-1)  | Representing Graphs, Tree Traversals, Binary Search Tree, DFS, BFS, Union Find, Heap  |
+| 5 | [DP - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/05-dp-1)| Greedy Algorithms, Memoization, Common DP Problems |  
+| 6 | [Data Structures - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/06-data-structures-1)| Stack, Queue, Deque, Linked List, Prefix Sum, Sparse Table, BIT, SQRT Decomposition, Segment Tree |  
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
