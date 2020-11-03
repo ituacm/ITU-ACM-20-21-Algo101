@@ -39,7 +39,7 @@ All sources: https://github.com/inzva/Algorithm-Program
 | Yılmaz Barış Kaplan | [*LinkedIn*](https://www.linkedin.com/in/kaplanbar/) |
 | Mehmet Altuner | [*LinkedIn*](https://www.linkedin.com/in/mehmet-altuner/) |
 | Ali Cafer Özer | [*LinkedIn*](https://www.linkedin.com/in/ali-cafer-%C3%B6zer-859063147/) |
-| Ömer Faruk Özkan |  |
+| Ömer Faruk Özkan | [*LinkedIn*](http://linkedin.com/in/%C3%B6mer-faruk-%C3%B6zkan-1941991b4) |
 | Fatih Avcı | [*LinkedIn*](https://www.linkedin.com/in/avcifatih/) |
 
 
