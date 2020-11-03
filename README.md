@@ -11,6 +11,10 @@
 
 Participants will learn to solve the problems that we encounter in daily life or writing efficient code starting from the basic algorithm information. Competitive Programming will be introduced and we will have the opportunity to apply our knowledge after adapting what we have learned to the question types with the contests related to each week's topic.
 
+### Lecture Day & Time
+
+Tuesday 18.00-19.30
+
 ### Important Links
 
 All sources: https://github.com/inzva/Algorithm-Program
@@ -32,6 +36,7 @@ All sources: https://github.com/inzva/Algorithm-Program
 
 | Name and Surname | Social Media |
 |:--:|:--:|
+| Yılmaz Barış Kaplan | [*LinkedIn*](https://www.linkedin.com/in/kaplanbar/) |
 | Mehmet Altuner | [*LinkedIn*](https://www.linkedin.com/in/mehmet-altuner/) |
 | Ali Cafer Özer | [*LinkedIn*](https://www.linkedin.com/in/ali-cafer-%C3%B6zer-859063147/) |
 | Ömer Faruk Özkan |  |
