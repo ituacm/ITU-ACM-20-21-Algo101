@@ -21,14 +21,14 @@ All sources: https://github.com/inzva/Algorithm-Program
 
 ### Syllabus
 
-|  #Week |  #Topic  | #Description  |
-| :------------: | :------------: | :------------: |
-| 1 | [Intro](https://github.com/inzva/Algorithm-Program/tree/master/bundles/01-intro) + [Algorithms - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/02-algorithms-1) | Big O Notation, Recursion, Builtin Data Structures, Sort/Search Algorithms  |
-| 2  |  | Meeting with officers from [inzva](https://inzva.com/)  |
-| 3  | [Math - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/03-math-1)  | Number Theory, Factorization, Combinatorics, Exponentiation  |
-| 4  | [Graph - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/04-graph-1)  | Representing Graphs, Tree Traversals, Binary Search Tree, DFS, BFS, Union Find, Heap  |
-| 5 | [DP - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/05-dp-1)| Greedy Algorithms, Memoization, Common DP Problems |  
-| 6 | [Data Structures - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/06-data-structures-1)| Stack, Queue, Deque, Linked List, Prefix Sum, Sparse Table, BIT, SQRT Decomposition, Segment Tree |  
+|  Week |  Topic  | Description  | Instructor |
+| :------------: | :------------: | :------------: | :--------:|
+| 1 | [Intro](https://github.com/inzva/Algorithm-Program/tree/master/bundles/01-intro) + [Algorithms - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/02-algorithms-1) | Big O Notation, Recursion, Builtin Data Structures, Sort/Search Algorithms  | Fatih Avcı|
+| 2  |  | Meeting with officers from [inzva](https://inzva.com/)  | - |
+| 3  | [Math - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/03-math-1)  | Number Theory, Factorization, Combinatorics, Exponentiation  | Ömer Faruk Özkan|
+| 4  | [Graph - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/04-graph-1)  | Representing Graphs, Tree Traversals, Binary Search Tree, DFS, BFS, Union Find, Heap  | Mehmet Altuner |
+| 5 | [DP - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/05-dp-1)| Greedy Algorithms, Memoization, Common DP Problems | Ali Cafer Özer |
+| 6 | [Data Structures - 1](https://github.com/inzva/Algorithm-Program/tree/master/bundles/06-data-structures-1)| Stack, Queue, Deque, Linked List, Prefix Sum, Sparse Table, BIT, SQRT Decomposition, Segment Tree | Yılmaz Barış Kaplan |
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
